@@ -1,6 +1,8 @@
 # Gears of War 4 Lifetime Credits Earned
 
-## View the cumulative credits your have earned throughout the lifetime of your play.
+## View the cumulative credits your have earned throughout the lifetime of your play with a single click.
+
+#### Active from the ```https://gearsofwar.com/en-us/cards/*``` URL
 
 ![demo](https://github.com/TheanosLearning/HordeLifetimeCredits/raw/master/images/total-credits.png)
 
