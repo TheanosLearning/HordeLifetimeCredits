@@ -5,7 +5,7 @@
 
 	"content_scripts": [
 	  {
-	    "matches": ["https://gearsofwar.com/en-us/cards/*"],
+	    "matches": ["https://gearsofwar.com/*/cards/*"],
 	    "js": ["credits.js"]
 	  }
 	],
