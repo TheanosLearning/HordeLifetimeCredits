@@ -2,7 +2,8 @@ var credits = function lifetimeCredits() {
 
     let xhttp = new XMLHttpRequest();
     let parser = new DOMParser();
-    let statsUrl = "https://gearsofwar.com/en-us/stats/gears-of-war-4/xbox-one/service-records/players/";
+    let locale = document.URL.split("/")[3];
+    let statsUrl = "https://gearsofwar.com/" + locale + "/stats/gears-of-war-4/xbox-one/service-records/players/";
     let gamertag = JSON.parse(document.getElementById('initialState').textContent).user.gamertag;
 
     xhttp.onreadystatechange = function() {
