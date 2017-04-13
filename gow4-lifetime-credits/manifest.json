@@ -1,7 +1,13 @@
 {
 	"manifest_version": 2,
-	"name": "GoW4 Lifetime Credits",
-	"version": "1.0",
+	"name": "Gears of War 4 Lifetime Credits",
+	"short_name": "G4LC",
+	"version": "1.1",
+	"description": "Displays the total amount of credits ever earned while playing Gears 4.",
+	"icons": {
+		"48": "credits48.png",
+		"128": "credits128.png"
+	},
 
 	"content_scripts": [
 	  {
