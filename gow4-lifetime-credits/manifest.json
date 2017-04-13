@@ -5,8 +5,8 @@
 	"version": "1.1",
 	"description": "Displays the total amount of credits ever earned while playing Gears 4.",
 	"icons": {
-		"48": "credits48.png",
-		"128": "credits128.png"
+		"48": "images/credits48.png",
+		"128": "images/credits128.png"
 	},
 
 	"content_scripts": [
@@ -17,7 +17,7 @@
 	],
 
 	"browser_action": {
-  		"default_icon": "credits.png"
+  		"default_icon": "images/credits.png"
 	},
 
 	"background": {
