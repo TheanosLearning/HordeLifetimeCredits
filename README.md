@@ -2,7 +2,7 @@
 
 ## View the cumulative credits your have earned throughout the lifetime of your play with a single click.
 
-#### Active from the ```https://gearsofwar.com/*/cards/*``` URL
+#### Active from the ```https://gearsofwar.com/cards/*``` URL
 
 ![demo](https://github.com/TheanosLearning/HordeLifetimeCredits/raw/master/images/total-credits.png)
 
