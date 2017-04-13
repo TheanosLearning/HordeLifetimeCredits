@@ -1,4 +1,4 @@
-# Gears of War 4 Lifetime Credits Earned
+# Gears of War 4 Lifetime Credits Earned v1.1
 
 ## View the cumulative credits your have earned throughout the lifetime of your play with a single click.
 
