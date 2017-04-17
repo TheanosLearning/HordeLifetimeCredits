@@ -1,10 +1,10 @@
-# Gears of War 4 Lifetime Credits Earned `v1.2`
+# Gears of War 4 Lifetime Credits `v1.2`
 
 ![logo](https://github.com/TheanosLearning/HordeLifetimeCredits/raw/master/images/credits-svg.png)
 
 ### View the cumulative credits your have earned throughout the lifetime of your play with a single click!
 
-#### Active from (https://gearsofwar.com/cards)
+#### Active from https://gearsofwar.com/cards
 
 ![demo](https://github.com/TheanosLearning/HordeLifetimeCredits/raw/master/images/total-credits.png)
 
