@@ -4,6 +4,8 @@
 
 ### View the cumulative credits your have earned throughout the lifetime of your play with a single click!
 
+#### Now on the [Chrome Web Store](https://chrome.google.com/webstore/detail/gears-of-war-4-lifetime-c/iejabphfigedhandppchiilibpgpglmi)!
+
 #### Active from https://gearsofwar.com/cards
 
 ![demo](https://github.com/TheanosLearning/HordeLifetimeCredits/raw/master/images/total-credits.png)
